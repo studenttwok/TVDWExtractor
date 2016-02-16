@@ -180,6 +180,7 @@ Format:
 ==========
 mfactor.mft
 mfspend.mft
+類型 與 時段 開機率
 mfstyle.mft
 以上是自制節目參數表
 Mftable.tbw
