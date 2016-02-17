@@ -11,7 +11,7 @@ descFormat = "96s"
 
 try:
     # 251 for movie, 95 for desc
-    for i in range(0,3000):
+    for i in range(0,8000):
         fIn.seek(i * 252, 0)
         # read 252 bytes
         dataRecordAllBytes = fIn.read(252)
