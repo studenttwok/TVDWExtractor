@@ -9,8 +9,8 @@ If you have the game and you are also curious about this, feel free to use this 
 You will need Python to use this program.
 
 It extracts:
-pdata/film.pgm
-pdata/person.dat
-pdata/pintro.dat
-pdata/script.pgm
-table/fresh.tab
+* pdata/film.pgm
+* pdata/person.dat
+* pdata/pintro.dat
+* pdata/script.pgm
+* table/fresh.tab
